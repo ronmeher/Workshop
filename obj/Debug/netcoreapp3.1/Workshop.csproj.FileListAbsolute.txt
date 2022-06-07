@@ -1,0 +1,14 @@
+C:\Users\ROHAN\source\Bridge Labz\Workshop\obj\Debug\netcoreapp3.1\Workshop.csproj.AssemblyReference.cache
+C:\Users\ROHAN\source\Bridge Labz\Workshop\obj\Debug\netcoreapp3.1\Workshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROHAN\source\Bridge Labz\Workshop\obj\Debug\netcoreapp3.1\Workshop.AssemblyInfoInputs.cache
+C:\Users\ROHAN\source\Bridge Labz\Workshop\obj\Debug\netcoreapp3.1\Workshop.AssemblyInfo.cs
+C:\Users\ROHAN\source\Bridge Labz\Workshop\obj\Debug\netcoreapp3.1\Workshop.csproj.CoreCompileInputs.cache
+C:\Users\ROHAN\source\Bridge Labz\Workshop\bin\Debug\netcoreapp3.1\Workshop.exe
+C:\Users\ROHAN\source\Bridge Labz\Workshop\bin\Debug\netcoreapp3.1\Workshop.deps.json
+C:\Users\ROHAN\source\Bridge Labz\Workshop\bin\Debug\netcoreapp3.1\Workshop.runtimeconfig.json
+C:\Users\ROHAN\source\Bridge Labz\Workshop\bin\Debug\netcoreapp3.1\Workshop.runtimeconfig.dev.json
+C:\Users\ROHAN\source\Bridge Labz\Workshop\bin\Debug\netcoreapp3.1\Workshop.dll
+C:\Users\ROHAN\source\Bridge Labz\Workshop\bin\Debug\netcoreapp3.1\Workshop.pdb
+C:\Users\ROHAN\source\Bridge Labz\Workshop\obj\Debug\netcoreapp3.1\Workshop.dll
+C:\Users\ROHAN\source\Bridge Labz\Workshop\obj\Debug\netcoreapp3.1\Workshop.pdb
+C:\Users\ROHAN\source\Bridge Labz\Workshop\obj\Debug\netcoreapp3.1\Workshop.genruntimeconfig.cache
